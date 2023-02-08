@@ -17,9 +17,9 @@
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-323540?style=for-the-badge&logo=javascript&logoColor=5294E2" alt="JavaScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/TypeScript-323540?style=for-the-badge&logo=typescript&logoColor=5294E2" alt="TypeScript" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Ruby-323540?style=for-the-badge&logo=go&logoColor=5294E2" alt="Ruby" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Ruby-323540?style=for-the-badge&logo=ruby&logoColor=5294E2" alt="Ruby" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="PHP" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="CSS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS-323540?style=for-the-badge&logo=css&logoColor=5294E2" alt="CSS" style="border-radius:15px"/>
 </div>
 
 <h1 align="center">
