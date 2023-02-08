@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/TypeScript-323540?style=for-the-badge&logo=typescript&logoColor=5294E2" alt="TypeScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Ruby-323540?style=for-the-badge&logo=ruby&logoColor=5294E2" alt="Ruby" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="PHP" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS-323540?style=for-the-badge&logo=css&logoColor=5294E2" alt="CSS" style="border-radius:15px"/>
+
 </div>
 
 <h1 align="center">
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="React.js"  style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
     <br/>
-    <img src="https://img.shields.io/badge/Redis-323540.svg?style=for-the-badge&logo=redis&logoColor=5294E2" alt="Redis" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Firebase-323540.svg?style=for-the-badge&logo=firebase&logoColor=5294E2" alt="Firebase" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
 </div>
 
@@ -41,7 +41,7 @@
 </h1>
 <p align="center">
     <a href="https://github.com/JakDaxe">
-      <img src="https://lanyard.cnrad.dev/api/318149637964038144?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Nothing+xd" />
+      <img src="https://lanyard.cnrad.dev/api/318149637964038144?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=chilling" />
 </p>
     
 <h1 align="center">
