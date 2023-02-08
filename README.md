@@ -1,7 +1,7 @@
 
 <p align="center">
     <h1 align="center">Hi, im JakDaxe 👋</h1>
-    <img src="https://komarev.com/ghpvc/?username=JakDaxe" alt="JakDaxe" /> </p> </h1>
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=JakDaxe" alt="JakDaxe" /> </p> </h1>
 </p>
 <div align="center">
     <h3 align="center"><samp> Developer - Music Entusiast </samp></h3>
