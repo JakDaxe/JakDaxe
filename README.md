@@ -4,7 +4,7 @@
     <p align="center"><img src="https://komarev.com/ghpvc/?username=JakDaxe" alt="JakDaxe" /> </p> </h1>
 </p>
 <div align="center">
-    <h3 align="center"><samp> Developer - Music Entusiast </samp></h3>
+    <h3 align="center"><samp> Full Stack Developer - Music Entusiast </samp></h3>
 </div>
 
 <p align="center">
