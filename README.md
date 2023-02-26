@@ -59,7 +59,7 @@
     Most recent
 </h1>
 <p align="center">
-    <a href="https://github.com/JakDaxe/EclipseRPG">
+    <a href="https://github.com/JakDaxe/Duki">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakDaxe&repo=EclipseRPG&theme=dark&show_owner=DEEM-0001" />
     </a>
 </p>
