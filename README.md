@@ -59,7 +59,7 @@
     Most recent
 </h1>
 <p align="center">
-    <a href="https://github.com/JakDaxe/Duki">
+    <a href="https://github.com/JakDaxe/Eryka">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JakDaxe&repo=Eryka&theme=dark&show_owner=DEEM-0001" />
     </a>
 </p>
